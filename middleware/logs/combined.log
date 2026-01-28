@@ -1,0 +1,161 @@
+{"error":"Cannot add or update a child row: a foreign key constraint fails (`Hospital_management`.`patient`, CONSTRAINT `patient_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `staff` (`staff_id`) ON UPDATE CASCADE)","level":"error","message":"Something went wrong","status":500,"success":false,"timestamp":"2026-01-27T18:27:01.249Z"}
+{"error":"Cannot add or update a child row: a foreign key constraint fails (`Hospital_management`.`patient`, CONSTRAINT `patient_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `staff` (`staff_id`) ON UPDATE CASCADE)","level":"error","message":"Something went wrong","status":500,"success":false,"timestamp":"2026-01-27T18:30:40.886Z"}
+{"level":"info","message":"","timestamp":"2026-01-27T18:32:19.348Z"}
+{"level":"info","message":"","timestamp":"2026-01-27T18:32:20.469Z"}
+{"level":"info","message":"","timestamp":"2026-01-27T18:32:23.197Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-27T18:32:30.477Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-27T18:32:49.795Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:34:11.997Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:57:41.137Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:57:43.369Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:57:44.096Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:57:44.776Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:57:46.969Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:57:59.840Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:04.775Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:08.296Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:31.230Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:35.279Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:37.778Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:38.687Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:40.059Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:42.816Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:44.301Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:58:47.475Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:25.068Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:25.701Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:29.462Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:31.122Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:31.998Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:36.140Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:40.645Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:41.318Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:41.927Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:43.633Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:44.095Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:53.439Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T05:59:57.019Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:00:23.919Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:27:59.087Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:28:01.923Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:29:49.393Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:30:32.792Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:30:35.150Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:40.901Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:43.968Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:45.595Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:46.593Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:49.984Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:52.200Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:54.331Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:56.109Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:57.306Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:31:57.954Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:32:05.643Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:32:10.158Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:32:18.524Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:32:20.871Z"}
+{"level":"error","message":"Invalid credentials !","status":401,"timestamp":"2026-01-28T06:32:46.092Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:33:05.785Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:33:08.570Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:33:09.785Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:33:10.895Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:33:16.627Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:00.273Z"}
+{"level":"error","message":"Invalid credentials !","status":401,"timestamp":"2026-01-28T06:36:08.289Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:17.273Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:19.858Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:20.937Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:21.541Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:23.012Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:26.999Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:28.129Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:35.184Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:36.538Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:39.151Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:43.623Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:45.708Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:49.332Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:50.470Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:36:51.275Z"}
+{"level":"info","message":"User Successfully Logged In","status":200,"timestamp":"2026-01-28T06:36:56.113Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:37:29.303Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:37:31.979Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:37:32.677Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:37:33.248Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:37:34.416Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:38:42.354Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:38:46.477Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:38:49.291Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:38:51.960Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:38:55.251Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:38:57.531Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:38:59.926Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:39:03.956Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:39:04.866Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:39:09.265Z"}
+{"level":"info","message":"Appointments Fetched successfully","status":200,"timestamp":"2026-01-28T06:39:36.340Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:39:50.071Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:39:56.704Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:39:57.757Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:40:01.209Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:40:05.461Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:40:10.499Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:40:11.475Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:40:21.610Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:40:23.273Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:40:29.189Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:08.931Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:15.024Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:17.974Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:21.521Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:23.541Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:24.211Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:28.166Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:30.858Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:35.070Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:40.033Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:53.219Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:55.936Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:41:58.120Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:42:00.236Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:42:49.779Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:47:22.391Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:01.041Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:07.420Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:08.945Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:12.865Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:14.057Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:17.698Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:22.368Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:28.976Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:35.871Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:37.761Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:38.468Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:41.298Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:48.125Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:49.124Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:50:56.118Z"}
+{"level":"info","message":"Appointments Fetched successfully","status":200,"timestamp":"2026-01-28T06:51:11.485Z"}
+{"duration":"25ms","ip":"::1","level":"info","message":"HTTP Request","method":"GET","status":200,"timestamp":"2026-01-28T06:51:11.495Z","url":"/appointments"}
+{"duration":"15ms","ip":"::1","level":"info","message":"HTTP Request","method":"GET","status":200,"timestamp":"2026-01-28T06:51:40.224Z","url":"/staff"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:52:06.104Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:57:59.391Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:58:00.328Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T06:58:57.732Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:29.943Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:40.210Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:40.966Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:42.347Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:44.475Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:47.265Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:50.764Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:55.344Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-01-28T07:04:58.499Z"}
+{"duration":"8ms","level":"info","message":"HTTP Request","method":"GET","status":401,"timestamp":"2026-01-28T07:17:03.025Z","url":"/staff"}
+{"level":"info","message":"User Successfully Logged In","status":200,"timestamp":"2026-01-28T07:17:16.147Z"}
+{"duration":"198ms","level":"info","message":"HTTP Request","method":"POST","status":200,"timestamp":"2026-01-28T07:17:16.148Z","url":"/login"}
+{"duration":"2ms","level":"info","message":"HTTP Request","method":"GET","status":403,"timestamp":"2026-01-28T07:17:19.578Z","url":"/staff"}
+{"level":"info","message":"User Successfully Logged In","status":200,"timestamp":"2026-01-28T07:17:33.363Z"}
+{"duration":"138ms","level":"info","message":"HTTP Request","method":"POST","status":200,"timestamp":"2026-01-28T07:17:33.363Z","url":"/login"}
+{"duration":"6ms","level":"info","message":"HTTP Request","method":"GET","status":200,"timestamp":"2026-01-28T07:17:37.600Z","url":"/staff"}

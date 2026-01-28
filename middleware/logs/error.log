@@ -1,0 +1,4 @@
+{"error":"Cannot add or update a child row: a foreign key constraint fails (`Hospital_management`.`patient`, CONSTRAINT `patient_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `staff` (`staff_id`) ON UPDATE CASCADE)","level":"error","message":"Something went wrong","status":500,"success":false,"timestamp":"2026-01-27T18:27:01.249Z"}
+{"error":"Cannot add or update a child row: a foreign key constraint fails (`Hospital_management`.`patient`, CONSTRAINT `patient_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `staff` (`staff_id`) ON UPDATE CASCADE)","level":"error","message":"Something went wrong","status":500,"success":false,"timestamp":"2026-01-27T18:30:40.886Z"}
+{"level":"error","message":"Invalid credentials !","status":401,"timestamp":"2026-01-28T06:32:46.092Z"}
+{"level":"error","message":"Invalid credentials !","status":401,"timestamp":"2026-01-28T06:36:08.289Z"}
